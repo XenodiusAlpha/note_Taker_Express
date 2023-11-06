@@ -81,3 +81,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![After deleting a note](./screenshots/deleting.png)
 
+## Deployment
+
+Heroku:
+
+https://justin-note-taker-express-d2e39e4fa93c.herokuapp.com/
